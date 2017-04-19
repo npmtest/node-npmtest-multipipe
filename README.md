@@ -1,4 +1,7 @@
-# test coverage for  [multipipe (v1.0.2)](https://github.com/juliangruber/multipipe#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-multipipe.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multipipe) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multipipe.svg)](https://travis-ci.org/npmtest/node-npmtest-multipipe)
+# npmtest-multipipe
+
+#### test coverage for  [multipipe (v1.0.2)](https://github.com/juliangruber/multipipe#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-multipipe.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multipipe) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multipipe.svg)](https://travis-ci.org/npmtest/node-npmtest-multipipe)
+
 #### pipe streams with centralized error handling
 
 [![NPM](https://nodei.co/npm/multipipe.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/multipipe)
